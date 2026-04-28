@@ -1,4 +1,4 @@
-status=normal
-versao=22
-link=https://raw.githubusercontent.com/JJ20100000/LunarX-Christ/refs/heads/main/Desafio_dos_Evangelhos.txt
+status=manutencao
+versao=21
+link=
 mensagem=
