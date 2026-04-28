@@ -1,4 +1,4 @@
-status=manutencao
+status=normal
 versao=21
 link=
 mensagem=
