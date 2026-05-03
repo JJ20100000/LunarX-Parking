@@ -1,4 +1,4 @@
 status=normal
-versao=21
+versao=22
 link=
 mensagem=
